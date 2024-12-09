@@ -20,8 +20,9 @@ Image
 ![VisCount_img](/img/VisCount_Dataset_example.png)
 ---
 
-Video
-[![Watch the video](/img/video_zebra.mp4)
+
+https://github.com/user-attachments/assets/006b2228-367c-4cf0-a72e-9820f6752736
+
 
 ![VisCount_video](/img/VisCount_Dataset_video3.png)
 
