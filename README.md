@@ -16,7 +16,12 @@ VisCount is a comprehensive dataset for more robust evaluations of multimodal vi
 
 **Examples:**
 
-
+Image
 ![VisCount_img](/img/VisCount_Dataset_example.png)
+---
+
+Video
+[![Watch the video](/img/video_zebra.mp4)
+
 ![VisCount_video](/img/VisCount_Dataset_video3.png)
 
