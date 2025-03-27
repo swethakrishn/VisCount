@@ -1,11 +1,10 @@
-<img src="img/dataset_visual.png" height="120px" align="left">
+<img src="img/dataset_visual.png" height="150px" align="left">
 
 # VisCount 
 
 > **VisCount: Evaluating Counting Capabilities of Multimodal Video-LLMs**  
 > Swetha Krishnan, Rahasya Barkur (COMPSCI 670, Fall 2024)
-
-[[Poster]](/VisCount_Poster.pdf) [[Report]](/VisCount_Report.pdf)
+> [[Poster]](/VisCount_Poster.pdf) [[Report]](/VisCount_Report.pdf)
 
 VisCount is a comprehensive dataset for more robust evaluations of multimodal video-LLMs, containing images and videos with varying object frequencies and object classes. VisCount aims to bridge the gap in evaluating the object counting capabilities of MultiModal-LLMs.
 
