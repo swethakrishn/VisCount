@@ -3,8 +3,7 @@
 # VisCount 
 
 > **VisCount: Evaluating Counting Capabilities of Multimodal Video-LLMs**  
-> Swetha Krishnan, Rahasya Barkur, Kushal Raju   
-> COMPSCI 670, Fall 2024
+> Swetha Krishnan, Rahasya Barkur (COMPSCI 670, Fall 2024)
 
 [[Poster]](/VisCount_Poster.pdf) [[Report]](/VisCount_Report.pdf)
 
